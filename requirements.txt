@@ -1,0 +1,5 @@
+aiogram
+google-api-python-client
+pytrends
+python-dotenv
+pytz
